@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9051" started-at="2020-09-18T20:01:55Z" finished-at="2020-09-18T20:02:04Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9051" started-at="2020-09-18T20:01:55Z" finished-at="2020-09-18T20:02:04Z">
+      <class name="Data_Driven_Testing.Data_Driven_Restful">
+        <test-method status="PASS" signature="addNewEmployees(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Data_Driven_Testing.Data_Driven_Restful@29774679]" name="addNewEmployees" duration-ms="5805" started-at="2020-09-19T01:31:55Z" data-provider="empdata" finished-at="2020-09-19T01:32:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[nani]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[23000]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[20]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewEmployees -->
+        <test-method status="PASS" signature="addNewEmployees(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Data_Driven_Testing.Data_Driven_Restful@29774679]" name="addNewEmployees" duration-ms="1284" started-at="2020-09-19T01:32:01Z" data-provider="empdata" finished-at="2020-09-19T01:32:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kishore]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[24000]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[24]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewEmployees -->
+        <test-method status="PASS" signature="addNewEmployees(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Data_Driven_Testing.Data_Driven_Restful@29774679]" name="addNewEmployees" duration-ms="1802" started-at="2020-09-19T01:32:02Z" data-provider="empdata" finished-at="2020-09-19T01:32:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ganesh]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[25000]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[29]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewEmployees -->
+      </class> <!-- Data_Driven_Testing.Data_Driven_Restful -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
